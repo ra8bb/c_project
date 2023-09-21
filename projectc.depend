@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1695254300 source:c:\users\mohamed ragheb\onedrive\desktop\c project\projectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+
+1695254448 source:c:\users\mohamed ragheb\onedrive\desktop\c project\projectc\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1695229001 c:\users\mohamed ragheb\onedrive\desktop\c project\projectc\std.h
+
+1695229005 c:\users\mohamed ragheb\onedrive\desktop\c project\projectc\sdb.h
+	"STD.h"
+
+1695254592 source:c:\users\mohamed ragheb\onedrive\desktop\c project\projectc\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
